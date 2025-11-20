@@ -1,0 +1,7 @@
+{
+  "name": "Entrenador Vocal Interactivo",
+  "description": "Aplicación educativa para el entrenamiento auditivo y vocal de estudiantes de música.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
